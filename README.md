@@ -10,13 +10,12 @@ Simple and fun chess game built in React.js and styled in Tailwind. On this game
 - HTML5
 - CSS3 
 - React.js
+- Tailwind.css
 
 
 # Packages 📦 
 
 - Create-React 
-
-- Tailwind.css
 
 - ChessBoard.js
 
